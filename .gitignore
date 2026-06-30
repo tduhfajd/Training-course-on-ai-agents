@@ -1,0 +1,5 @@
+# Local student work created while taking the course.
+student-workspace/
+
+# Common OS/editor noise.
+.DS_Store
